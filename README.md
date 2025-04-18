@@ -7,5 +7,4 @@
 <img src="https://github-profile-trophy.vercel.app/?username=olgavasilivna&theme=radical&no-frame=false&no-bg=false&margin-w=4"/>
 
 
-##
-<img src="https://komarev.com/ghpvc/?username=olgavasilivna&color=ffffff"/>
+<img src="https://komarev.com/ghpvc/?username=olgavasilivna&color=000000"/>
